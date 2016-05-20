@@ -1,6 +1,6 @@
 # rickrollR
 
-R package providing some functions for ![rickrolling](https://en.wikipedia.org/wiki/Rickrolling) in R.
+R package providing some functions for [rickrolling](https://en.wikipedia.org/wiki/Rickrolling) in R.
 
 ## Installation
 

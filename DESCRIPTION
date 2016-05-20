@@ -1,0 +1,10 @@
+Package: rickrollR
+Type: Package
+Title: rickrollR
+Version: 0.1.0
+Author: Michael Scroggie
+Maintainer: Michael Scroggie <scrogster@gmail.com>
+Description: Provides functions for rickrolling with R.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
